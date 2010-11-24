@@ -1,0 +1,13 @@
+* Companion iPhone Core Data project from blog post *
+
+My project is moving along, I hope to hit some milestones in the next few days! For now, I wanted to talk about how I'm using Core Data, and build a simple RSS feed reader to demonstrate it's use...
+
+What I'm going over:
+
+   1. Create a project with Core Data
+   2. Create the Database
+   3. Fetch and Parse RSS feed
+   4. Dump to Database
+   5. Display to tableView
+
+Let's get started... http://appgoal.posterous.com/

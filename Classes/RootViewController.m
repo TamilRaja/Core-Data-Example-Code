@@ -172,10 +172,10 @@
 	
 	NSLog(@"all done!");
 	NSLog(@"stories array has %d items", [stories count]);
-	[newsTable reloadData];
+	//[newsTable reloadData];
 	
 	// dump to database
-	//[self insertNewObject];
+	[self insertNewObject];
 	
 }
 
