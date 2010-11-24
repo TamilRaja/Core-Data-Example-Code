@@ -189,7 +189,7 @@
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
 			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{411, 389}\";\n            s = 0;\n        },\n                {\n            r = \"{842, 133}\";\n            s = 0;\n        },\n                {\n            r = \"{1062, 186}\";\n            s = 0;\n        },\n                {\n            r = \"{1322, 1036}\";\n            s = 0;\n        },\n                {\n            r = \"{2444, 868}\";\n            s = 0;\n        },\n                {\n            r = \"{3368, 49}\";\n            s = 0;\n        },\n                {\n            r = \"{3499, 382}\";\n            s = 0;\n        },\n                {\n            r = \"{4072, 435}\";\n            s = 0;\n        },\n                {\n            r = \"{4655, 450}\";\n            s = 0;\n        },\n                {\n            r = \"{5180, 479}\";\n            s = 0;\n        },\n                {\n            r = \"{5714, 238}\";\n            s = 0;\n        },\n                {\n            r = \"{6074, 62}\";\n            s = 0;\n        },\n                {\n            r = \"{6229, 160}\";\n            s = 0;\n        },\n                {\n            r = \"{6496, 456}\";\n            s = 0;\n        },\n                {\n            r = \"{7103, 1004}\";\n            s = 0;\n        },\n                {\n            r = \"{8201, 66}\";\n            s = 0;\n        },\n                {\n            r = \"{8384, 2149}\";\n            s = 0;\n        },\n                {\n            r = \"{10684, 36}\";\n            s = 0;\n        },\n                {\n            r = \"{10939, 436}\";\n            s = 0;\n        },\n                {\n            r = \"{11607, 1000}\";\n            s = 0;\n        },\n                {\n            r = \"{12687, 34}\";\n            s = 0;\n        },\n                {\n            r = \"{12804, 177}\";\n            s = 0;\n        },\n                {\n            r = \"{13008, 133}\";\n            s = 0;\n        },\n                {\n            r = \"{13162, 286}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13458}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {1354, 1131}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1354, 1092}}";
 			sepNavSelRange = "{1372, 0}";
 			sepNavVisRange = "{389, 1519}";
 		};
@@ -246,34 +246,18 @@
 			PBXWorkspaceStateSaveDate = 312277907;
 		};
 		perUserProjectItems = {
-			7E17DC4D129CEFC6004314B4 = 7E17DC4D129CEFC6004314B4 /* PBXTextBookmark */;
 			7E441F49129CFB98003733BB /* PBXTextBookmark */ = 7E441F49129CFB98003733BB /* PBXTextBookmark */;
-			7E441F4A129CFB98003733BB /* PBXTextBookmark */ = 7E441F4A129CFB98003733BB /* PBXTextBookmark */;
-			7E441F4E129CFE72003733BB /* PBXTextBookmark */ = 7E441F4E129CFE72003733BB /* PBXTextBookmark */;
-			7E441F4F129CFE7A003733BB /* PBXTextBookmark */ = 7E441F4F129CFE7A003733BB /* PBXTextBookmark */;
-			7E441F50129CFE9E003733BB /* PBXTextBookmark */ = 7E441F50129CFE9E003733BB /* PBXTextBookmark */;
-			7E441F51129D02A7003733BB /* PBXTextBookmark */ = 7E441F51129D02A7003733BB /* PBXTextBookmark */;
-			7EAABD59129CFB22007D2908 = 7EAABD59129CFB22007D2908 /* PBXTextBookmark */;
-			7EAABD5A129CFB22007D2908 = 7EAABD5A129CFB22007D2908 /* PBXTextBookmark */;
-			7EAABD5B129CFB22007D2908 = 7EAABD5B129CFB22007D2908 /* PBXTextBookmark */;
-			7EAABD5C129CFB22007D2908 = 7EAABD5C129CFB22007D2908 /* PBXTextBookmark */;
-			7ED41E7C129BB5140052BC5A = 7ED41E7C129BB5140052BC5A /* PBXTextBookmark */;
-			7ED41E7D129BB5140052BC5A = 7ED41E7D129BB5140052BC5A /* PBXTextBookmark */;
-			7ED41E7E129BB5140052BC5A = 7ED41E7E129BB5140052BC5A /* XDModelBookmark */;
+			7E441F52129D040F003733BB /* PBXTextBookmark */ = 7E441F52129D040F003733BB /* PBXTextBookmark */;
+			7EAABD59129CFB22007D2908 /* PBXTextBookmark */ = 7EAABD59129CFB22007D2908 /* PBXTextBookmark */;
+			7EAABD5A129CFB22007D2908 /* PBXTextBookmark */ = 7EAABD5A129CFB22007D2908 /* PBXTextBookmark */;
+			7EAABD5B129CFB22007D2908 /* PBXTextBookmark */ = 7EAABD5B129CFB22007D2908 /* PBXTextBookmark */;
+			7ED41E7C129BB5140052BC5A /* PBXTextBookmark */ = 7ED41E7C129BB5140052BC5A /* PBXTextBookmark */;
+			7ED41E7D129BB5140052BC5A /* PBXTextBookmark */ = 7ED41E7D129BB5140052BC5A /* PBXTextBookmark */;
+			7ED41E7E129BB5140052BC5A /* XDModelBookmark */ = 7ED41E7E129BB5140052BC5A /* XDModelBookmark */;
 		};
 		sourceControlManager = 7EAF20C3129A662400075A94 /* Source Control */;
 		userBuildSettings = {
 		};
-	};
-	7E17DC4D129CEFC6004314B4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* MyCoreDataAppDelegate.m */;
-		name = "MyCoreDataAppDelegate.m: 13";
-		rLen = 0;
-		rLoc = 242;
-		rType = 0;
-		vrLen = 1300;
-		vrLoc = 0;
 	};
 	7E441F49129CFB98003733BB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -285,47 +269,7 @@
 		vrLen = 1020;
 		vrLoc = 0;
 	};
-	7E441F4A129CFB98003733BB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 8";
-		rLen = 0;
-		rLoc = 149;
-		rType = 0;
-		vrLen = 5661;
-		vrLoc = 0;
-	};
-	7E441F4E129CFE72003733BB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 178";
-		rLen = 0;
-		rLoc = 5926;
-		rType = 0;
-		vrLen = 7120;
-		vrLoc = 3419;
-	};
-	7E441F4F129CFE7A003733BB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 178";
-		rLen = 0;
-		rLoc = 5926;
-		rType = 0;
-		vrLen = 7120;
-		vrLoc = 3419;
-	};
-	7E441F50129CFE9E003733BB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 175";
-		rLen = 0;
-		rLoc = 5878;
-		rType = 0;
-		vrLen = 7122;
-		vrLoc = 3419;
-	};
-	7E441F51129D02A7003733BB /* PBXTextBookmark */ = {
+	7E441F52129D040F003733BB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 184";
@@ -363,16 +307,6 @@
 		rLoc = 0;
 		rType = 0;
 		vrLen = 991;
-		vrLoc = 0;
-	};
-	7EAABD5C129CFB22007D2908 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* MyCoreDataAppDelegate.m */;
-		name = "MyCoreDataAppDelegate.m: 13";
-		rLen = 0;
-		rLoc = 242;
-		rType = 0;
-		vrLen = 1300;
 		vrLoc = 0;
 	};
 	7EAF20B2129A661C00075A94 /* MyCoreData */ = {
